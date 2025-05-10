@@ -1,1 +1,6 @@
 https://github.com/mgsgoms/helloworld-java-maven
+Sudo apt update
+Sudo apt insatll ansible
+gedit /etc/ansible/hosts
+nano install_ngnix.yml
+ansible-playbook-i localhost, install_ngnix.yml
